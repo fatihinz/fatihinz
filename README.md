@@ -1,5 +1,4 @@
-## Fatih Yavuzyilmaz 👋
-
+## Hi There ! it is me, Fatih 👋
 `Digital craftsman (Developer, Tester, Architect)`
 
 I have over 10 years of experience in the IT industry, with a strong background in software development, testing, and CI/CD. I have contributed to the development, testing, and release of our application for agents, ensuring consistent updates and high-quality standards throughout the Scrum Agile lifecycle. I have also focused on test automation, including end-to-end automated tests and UI tests using Cypress, which reduced regression testing time from one week to one day. Additionally, I validated the application after release, reproduced bugs and bug fixes in test environments, and created data for these test environments to facilitate thorough testing and ensure the reliability of our application. I hold aws certificate and many coding based certificates from bootcamps. 
