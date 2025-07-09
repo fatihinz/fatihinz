@@ -1,5 +1,5 @@
 ## Hi There ! it is me, Fatih 👋
-`Digital craftsman (Developer, Tester, Architect)`
+`Digital craftsman (Software Developer in Test, QA)`
 
 I have over 10 years of experience in the IT industry. I have contributed to the development, testing, and release of our application for agents, ensuring consistent updates and high-quality standards throughout the Scrum Agile lifecycle. I have also focused on test automation, including end-to-end automated tests and UI/backend tests. Additionally, I validated the application after release, reproduced bugs and bug fixes in test environments, and created data for these test environments to facilitate thorough testing and ensure the reliability of our application. I hold aws certificate and many coding based certificates from bootcamps. 
 
